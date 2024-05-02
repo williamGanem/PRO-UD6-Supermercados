@@ -1,4 +1,4 @@
-package com.supermercado.cesta;
+package com.supermercado.acessorio;
 
 import java.util.Stack;
 
